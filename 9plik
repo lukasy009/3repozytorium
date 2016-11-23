@@ -24,3 +24,4 @@ function siftDown(a, start, end) is
          root := child                (repeat to continue sifting down the child now)
       else
          return
+zmiana 1
