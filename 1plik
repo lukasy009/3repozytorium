@@ -1,5 +1,5 @@
-function heapify(a,count) is
-   (start is assigned zmiana index in a of the last parent node)
+function heapify(a,count) is /zmianapierwsza (ja)
+   (start is assigned the index in a of the last parent node)
    start := (count - 2) / 2
    
    while start ≥ 0 do
