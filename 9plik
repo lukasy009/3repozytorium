@@ -25,3 +25,4 @@ function siftDown(a, start, end) is
       else
          return
 zmiana 1
+zmiana 2
