@@ -23,4 +23,4 @@ function siftDown(a, start, end) is
          swap(a[root], a[child])
          root := child                (repeat to continue sifting down the child now)
       else
-         return
+         return zmiana 1 zmiana2
