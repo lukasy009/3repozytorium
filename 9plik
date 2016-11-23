@@ -26,3 +26,4 @@ function siftDown(a, start, end) is
          return
 zmiana 1
 zmiana 2
+zmiana 3
